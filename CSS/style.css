@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "oswald";
+    src: url("fonts/Oswald/Oswald-Bold.ttf");
+    font-weight: 600;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+html{
+    text-transform:capitalize;
+}
+
+h1 {
+    color:blueviolet;
+    font-family:monospace;
+    text-align:center;
+    font-size: 30px;
+
+}
+
+h3{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-weight:bolder;
+}
+
+#bioHeader{
+    color: aquamarine;
+}
+
+p {
+    color: rgb(42, 87, 18);
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 20px;
+    font-weight:lighter;
+}
+
+img {
+    width: 400px;
+    height: 267px;
+    margin: 30px;
+}
